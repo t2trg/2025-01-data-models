@@ -12,8 +12,8 @@ https://rallly.co/invite/9HLghD8QtkT9
 ## Potential agenda items (unconfirmed)
 
 * Status Report: Using SDF models as input to [nipc][]
-* SDF-informed bridging between LWM2M and Matter
-* YANG-CBOR vs. SenML, part 2
+* SDF-informed bridging between LWM2M and Matter ([IETF 121 presentation](https://datatracker.ietf.org/meeting/121/materials/slides-121-t2trg-converting-interaction-models-between-sdf-and-matter-00))
+* YANG-CBOR vs. SenML, part 2 ([IETF 121 presentation](https://datatracker.ietf.org/meeting/121/materials/slides-121-t2trg-sharing-data-models-between-senml-and-coreconf-slides-only-00), [draft](https://datatracker.ietf.org/doc/draft-gudi-t2trg-senml-as-coreconf/))
 * Model evolution/customization: The derivation axis
   (compare YANG [augmenting][], [sdfRef][], and SDF [mapping][])
   * Step 1: Terminology?
