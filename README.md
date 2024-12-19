@@ -18,8 +18,11 @@ https://rallly.co/invite/9HLghD8QtkT9
   (compare YANG [augmenting][], [sdfRef][], and SDF [mapping][])
   * Step 1: Terminology?
 
+Please contact the [chairs][] with suggestions you have.
+
 [augmenting]: https://www.rfc-editor.org/rfc/rfc7950#section-4.2.8
 [sdfRef]: https://www.ietf.org/archive/id/draft-ietf-asdf-sdf-18.html#name-sdfref
 [mapping]: https://www.ietf.org/archive/id/draft-bormann-asdf-sdf-mapping-05.html
 [nipc]: https://www.ietf.org/archive/id/draft-ietf-asdf-nipc-03.html
 
+[chairs]: mailto:t2trg-chairs@irtf.org
