@@ -4,7 +4,7 @@ T2TRG Interim Meeting on Data Modeling Topics
 
 ## Logistics
 
-**Time:** Wednesday, January 30th, 16:00 UTC<br>
+**Time:** Thursday, January 30th, 16:00 UTC<br>
 (90-120 minutes)
 
 This interim will happen online via meetecho, please see<br> <https://datatracker.ietf.org/meeting/interim-2025-t2trg-01/session/t2trg>.
@@ -26,7 +26,7 @@ required to access the web conferencing system "meetecho".
   (compare YANG [augmenting][], [sdfRef][], and SDF [mapping][])
   * Step 1: Terminology?
 
-Please contact the [chairs][] with suggestions you have.
+Please contact the [chairs][] with suggestions you have. We plan to nail down the aganda around week 2.
 
 [augmenting]: https://www.rfc-editor.org/rfc/rfc7950#section-4.2.8
 [sdfRef]: https://www.ietf.org/archive/id/draft-ietf-asdf-sdf-18.html#name-sdfref
