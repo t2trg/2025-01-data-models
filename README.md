@@ -19,21 +19,24 @@ join; an [IETF datatracker account](https://datatracker.ietf.org/) is
 required to access the web conferencing system "meetecho".
 
 
-## Potential agenda items (unconfirmed)
-
-* Status Report: Using SDF models as input to [nipc][]
-* SDF-informed bridging between LWM2M and Matter ([IETF 121 presentation](https://datatracker.ietf.org/meeting/121/materials/slides-121-t2trg-converting-interaction-models-between-sdf-and-matter-00))
-* YANG-CBOR vs. SenML, part 2 ([IETF 121 presentation](https://datatracker.ietf.org/meeting/121/materials/slides-121-t2trg-sharing-data-models-between-senml-and-coreconf-slides-only-00), [draft](https://datatracker.ietf.org/doc/draft-gudi-t2trg-senml-as-coreconf/))
-* Model evolution/customization: The derivation axis
-  (compare YANG [augmenting][], [sdfRef][], and SDF [mapping][])
-  * Step 1: Terminology?
+## Agenda Items
 
 Please contact the [chairs][] with suggestions you have.
-We plan to nail down the aganda around week 2.
+
+| Time (UTC) | Who             | Subject                                                                           | Remarks           |
+|------------|-----------------|-----------------------------------------------------------------------------------|-------------------|
+|      16:00 | (chairs)        | **Intro**                                                                         |                   |
+|      16:06 | Niklas Meyer    | SDF-informed bridging between LwM2M and Matter (demo)                             | [121matter][]     |
+|      16:30 | Bart Brinckman  | Using SDF models as input to NIPC (overview and status)                           | [nipc][]          |
+|      16:54 | Manoj Gudi      | YANG-CBOR vs. SenML, part 2                                                       | [121senml][]      |
+|      17:14 | Carsten Bormann | **Impulse talk:** Derivation and Instantiation: Two dimensions of model evolution | (if we have time) |
+|      17:26 | (chairs)        | **Wrapup**                                                                        |                   |
 
 [augmenting]: https://www.rfc-editor.org/rfc/rfc7950#section-4.2.8
 [sdfRef]: https://www.ietf.org/archive/id/draft-ietf-asdf-sdf-18.html#name-sdfref
 [mapping]: https://www.ietf.org/archive/id/draft-bormann-asdf-sdf-mapping-05.html
 [nipc]: https://www.ietf.org/archive/id/draft-ietf-asdf-nipc-03.html
-
+[121matter]: https://datatracker.ietf.org/meeting/121/materials/slides-121-t2trg-converting-interaction-models-between-sdf-and-matter-00))
+[121senml]: https://datatracker.ietf.org/meeting/121/materials/slides-121-t2trg-sharing-data-models-between-senml-and-coreconf-slides-only-00), [draft-senml]: https://datatracker.ietf.org/doc/draft-gudi-t2trg-senml-as-coreconf/
 [chairs]: mailto:t2trg-chairs@irtf.org
+<!-- (compare YANG [augmenting][], [sdfRef][], and SDF [mapping][]) -->
