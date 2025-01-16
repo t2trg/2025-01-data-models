@@ -36,7 +36,8 @@ Please contact the [chairs][] with suggestions you have.
 [sdfRef]: https://www.ietf.org/archive/id/draft-ietf-asdf-sdf-18.html#name-sdfref
 [mapping]: https://www.ietf.org/archive/id/draft-bormann-asdf-sdf-mapping-05.html
 [nipc]: https://www.ietf.org/archive/id/draft-ietf-asdf-nipc-03.html
-[121matter]: https://datatracker.ietf.org/meeting/121/materials/slides-121-t2trg-converting-interaction-models-between-sdf-and-matter-00))
-[121senml]: https://datatracker.ietf.org/meeting/121/materials/slides-121-t2trg-sharing-data-models-between-senml-and-coreconf-slides-only-00), [draft-senml]: https://datatracker.ietf.org/doc/draft-gudi-t2trg-senml-as-coreconf/
+[121matter]: https://datatracker.ietf.org/meeting/121/materials/slides-121-t2trg-converting-interaction-models-between-sdf-and-matter-00
+[121senml]: https://datatracker.ietf.org/meeting/121/materials/slides-121-t2trg-sharing-data-models-between-senml-and-coreconf-slides-only-00 
+[draft-senml]: https://datatracker.ietf.org/doc/draft-gudi-t2trg-senml-as-coreconf/
 [chairs]: mailto:t2trg-chairs@irtf.org
 <!-- (compare YANG [augmenting][], [sdfRef][], and SDF [mapping][]) -->
