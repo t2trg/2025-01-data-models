@@ -7,6 +7,8 @@ T2TRG Interim Meeting on Data Modeling Topics
 **Time:** Thursday, January 30th, 16:00 UTC<br>
 (90-120 minutes)
 
+icalendar entry: https://datatracker.ietf.org/meeting/interim-2025-t2trg-01/sessions/t2trg.ics
+
 This interim will happen online via meetecho, please see<br>
 <https://datatracker.ietf.org/meeting/interim-2025-t2trg-01/session/t2trg><br>
 <https://meetings.conf.meetecho.com/interim/?group=d8b5cdeb-2d55-4f5f-8cda-1771aa7fe51d>
