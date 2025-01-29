@@ -5,7 +5,7 @@ T2TRG Interim Meeting on Data Modeling Topics
 ## Logistics
 
 **Time:** Thursday, January 30th, 16:00 UTC<br>
-(90-120 minutes)
+(90 minutes)
 
 icalendar entry: https://datatracker.ietf.org/meeting/interim-2025-t2trg-01/sessions/t2trg.ics
 
