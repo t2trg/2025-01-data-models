@@ -28,11 +28,10 @@ Please contact the [chairs][] with suggestions you have.
 | Time (UTC) | Who             | Subject                                                                           | Remarks           |
 |------------|-----------------|-----------------------------------------------------------------------------------|-------------------|
 |      16:00 | (chairs)        | **Intro**                                                                         |                   |
-|      16:06 | Niklas Meyer    | SDF-informed bridging between LwM2M and Matter (demo)                             | [121matter][]     |
-|      16:30 | Bart Brinckman  | Using SDF models as input to NIPC (overview and status)                           | [nipc][]          |
-|      16:54 | Manoj Gudi      | YANG-CBOR vs. SenML, part 2                                                       | [121senml][]      |
-|      17:14 | Carsten Bormann | **Impulse talk:** Derivation and Instantiation: Two dimensions of model evolution | (if we have time) |
-|      17:26 | (chairs)        | **Wrapup**                                                                        |                   |
+|      16:10 | Bart Brinckman  | Using SDF models with NIPC                                                        | [nipc][]          |
+|      16:40 | Manoj Gudi      | SenML-YANG follow-up                                                              | [121senml][]      |
+|      17:00 | Carsten Bormann | Derivation and Instantiation: Two dimensions of model evolution                   |                   |
+|      17:20 | (chairs)        | **Wrapup**                                                                        |                   |
 
 [augmenting]: https://www.rfc-editor.org/rfc/rfc7950#section-4.2.8
 [sdfRef]: https://www.ietf.org/archive/id/draft-ietf-asdf-sdf-18.html#name-sdfref
