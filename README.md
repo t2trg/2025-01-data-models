@@ -28,7 +28,7 @@ Please contact the [chairs][] with suggestions you have.
 | Time (UTC) | Who             | Subject                                                                           | Remarks           |
 |------------|-----------------|-----------------------------------------------------------------------------------|-------------------|
 |      16:00 | (chairs)        | **Intro**                                                                         |                   |
-|      16:10 | Bart Brinckman  | Using SDF models with NIPC                                                        | [nipc][]          |
+|      16:10 | Bart Brinckman  | Leveraging SDF models in NIPC                                                     | [nipc][]          |
 |      16:40 | Manoj Gudi      | SenML-YANG follow-up                                                              | [121senml][]      |
 |      17:00 | Carsten Bormann | Derivation and Instantiation: Two dimensions of model evolution                   |                   |
 |      17:20 | (chairs)        | **Wrapup**                                                                        |                   |
